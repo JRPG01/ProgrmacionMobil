@@ -10,7 +10,7 @@ import com.example.superheroes.R
 
 val Cabin = FontFamily(
     Font(R.font.cabin_regular, FontWeight.Normal),
-    Font(R.font.cabin_bold, FontWeight.Bold)
+        Font(R.font.cabin_bold, FontWeight.Bold)
 )
 // Set of Material typography styles to start with
 val Typography = Typography(
